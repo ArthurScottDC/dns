@@ -1,12 +1,11 @@
-### Whitelist these so that Spotify can see you are not using hax
+### Add these to your ALLOW list (whitelist) so that Spotify can see you are not using hax
 #bloodhound.spotify.com
 #adeventtracker.spotify.com
-### Confirmed ad servers, so perma-blocked!  FNB
+### Confirmed by Arthur to be adware servers, so perma-blocked!  FNB
 adstudio-assets.scdn.co
-video-fa.scdn.co
-### Spotify is NOT for video.  
-#video-akp-cdn-spotify-com.akamaized.net
-### Heads seems to be just ads
+video-fa.scdn.co  ### Spotify is NOT for video anyway, sorry joe rogan  
+video-akp-cdn-spotify-com.akamaized.net
+### Heads seem to be just ads
 heads4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 ### content or ads or both?
