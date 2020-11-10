@@ -1,9 +1,15 @@
+### Whitelist these so that Spotify can see you are not using hax
 #bloodhound.spotify.com
 #adeventtracker.spotify.com
-#audio-fa.scdn.co
+### Confirmed ad server
+adstudio-assets.scdn.co
+### Spotify is NOT for video.  
 video-fa.scdn.co
 video-akp-cdn-spotify-com.akamaized.net
+### Heads seems to be just ads
 heads4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
-adstudio-assets.scdn.co
+### content or ads or both?
+#audio-fa.scdn.co
+### temp update until in main blocklists
 app.adjust.world
