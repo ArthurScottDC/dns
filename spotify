@@ -11,8 +11,3 @@ heads4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 ################### content or ads or both?
 #### audio-fa.scdn.co
-################### random trackers spotify using that are not in steve list
-dntcl.qualaroo.com
-szeventhub.servicebus.windows.net
-################### temp update until in main blocklists
-app.adjust.world
