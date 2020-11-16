@@ -5,7 +5,7 @@ api-v3.tinypass.com
 experience.tinypass.com
 tinypass.com
 ################### temp update until in main blocklists
-################### random trackers that are not in steve list
+################### random trackers that are not in steve list yet
 app.adjust.world
 dntcl.qualaroo.com
 szeventhub.servicebus.windows.net
@@ -19,6 +19,10 @@ special-offers.online
 concertads-configs.vox-cdn.com # concert.io
 deliver.vkcdnservice.com
 vkcdnservice.appspot.com.storage.googleapis.com
+infinitedata-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebaseinstallations.googleapis.com
 livepixel-production.bln.liveintent.com
 ### fake news
 www.ccn.com
