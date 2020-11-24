@@ -5,6 +5,10 @@ Domain networking config, such as passlists and blocklists
 
 Stuff I always want to block, including new domain not yet in the mainlist
 
+#### pirate
+
+Shitty movie streaming sites loaded with malware/adware/miners
+
 #### social
 
 Blocking FB Graph and all of TikTok
