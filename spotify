@@ -1,5 +1,6 @@
 bloodhound.spotify.com
 adeventtracker.spotify.com
+canvaz.scdn.co  ### silly background graphics during some songs
 ################### Confirmed by Arthur to be adware servers, so perma-blocked!  FNB
 adstudio-assets.scdn.co
 video-fa.scdn.co  ### Spotify is NOT for video anyway, sorry joe rogan  
@@ -9,5 +10,5 @@ audio-akp-quic-spotify-com.akamaized.net # comfirmed ad server for web client
 heads4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 ################### content or ads or both?
-#### audio-fa.scdn.co
+#### audio-fa.scdn.co  ## mostly content but some integrated ads, need DPI?
 audio4-ak-spotify-com.akamaized.net
