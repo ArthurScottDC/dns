@@ -21,11 +21,11 @@ special-offers.online
 concertads-configs.vox-cdn.com # concert.io
 deliver.vkcdnservice.com
 vkcdnservice.appspot.com.storage.googleapis.com
-infinitedata-pa.googleapis.com
-firebaseremoteconfig.googleapis.com
-crashlyticsreports-pa.googleapis.com
-firebaseinstallations.googleapis.com
-footprints-pa.googleapis.com
+#infinitedata-pa.googleapis.com
+#firebaseremoteconfig.googleapis.com
+#crashlyticsreports-pa.googleapis.com
+#firebaseinstallations.googleapis.com
+#footprints-pa.googleapis.com
 livepixel-production.bln.liveintent.com
 ### fake news
 www.ccn.com
@@ -40,6 +40,6 @@ static.zdassets.com
 grid.bidswitch.net
 grid-cdn.pdc.bidswitch.net
 ######### Mozilla
-firefox.settings.services.mozilla.com
+#firefox.settings.services.mozilla.com
 ######
 track.analytics-data.io
